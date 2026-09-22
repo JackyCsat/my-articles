@@ -162,7 +162,7 @@ Agent 本质上是在动态编排流程并实时拼凑请求参数，因此传�
 
 # 四、Agent、multiAgent和workFlow
 ## 4.1 multiAgent
-当复杂任务可以拆解为职责清晰、相对解耦的子任务时，适合采用Multi-agent架构。未来必定是multi-agent作为主流，因为Agent Harness work模式，执行实在是太慢了。
+未来，Multi-agent 有望成为复杂任务的主流组织方式。对于职责清晰、相对独立的子任务，并行执行可以显著缩短整体耗时，缓解单个 Agent 长链路串行执行的等待；实际提速仍取决于任务依赖和协调成本。
 
 常见的组织模式包括：
 
