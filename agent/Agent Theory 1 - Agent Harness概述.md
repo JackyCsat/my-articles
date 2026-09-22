@@ -150,10 +150,6 @@ Agent 本质上是在动态编排流程并实时拼凑请求参数，因此传�
 ## 流程图
 ![Agent Harness：全程观测与可选效果验证](assets/agent-theory-1/agent-harness-sequence.svg)
 
-[查看 PlantUML 图源](assets/agent-theory-1/agent-harness-sequence.puml)
-
-[原图出处](https://cdn.nlark.com/yuque/__puml/917ec8a594ba7137441f549bafd802d7.svg)
-
 # 三、Agent使用场景
 + 使用AI、或者使用Agent去完成、简化工作流程，等于在流程中注入灵活性，同时引入不可靠性
 + 是什么情况下需要注入灵活性：
